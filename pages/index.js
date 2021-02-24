@@ -8,7 +8,7 @@ import Team_section from '../components/Team_section'
 
 export default function Home() {
   return (
-<div>
+<div class="-mr-2 ">
       <Navbar />
       <Hero_section />
       <Card_section />
