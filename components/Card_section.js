@@ -9,7 +9,7 @@ import React, { Component } from 'react'
                 <div class="text-center text-gray-100 pt-16 ">
                 
                 <h1 class=" text-4xl">serviços</h1>
-                 <p class=" pt-5 font-bold text-xl ">o game changing que o seu ecommerce precisa</p>   
+                 <p class=" pt-5 font-bold text-xl ">o game changing que o seu ecommerce precisa </p>   
                 </div>
 
                 
