@@ -42,10 +42,10 @@ class navbar extends Component {
         {/* mobile menu*/}
               <div class="md:hidden flex items-center ">
                 <a href="#" class="block py-2 p-x4 text-sm hover:bg-gray-300 ">clientes</a>
-                <a href="#" class="block py-2 p-x4 text-sm hover:bg-gray-300 ">serviços</a>
-                <a href="#" class="block py-2 p-x4 text-sm hover:bg-gray-300 ">preços</a>
-                <a href="#" class="block py-2 p-x4 text-sm hover:bg-gray-300 ">equipe</a>
-                <a href="#" class="block py-2 p-x4 text-sm hover:bg-gray-300 ">contato</a>
+                <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-300 ">serviços</a>
+                <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-300 ">preços</a>
+                <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-300 ">equipe</a>
+                <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-300 ">contato</a>
         </div>
           </div>
           </div> 
