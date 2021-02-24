@@ -8,7 +8,7 @@ import Team_section from '../components/Team_section'
 
 export default function Home() {
   return (
-<div class="w-full">
+<div class="w-screen">
       <Navbar />
       <Hero_section />
       <Card_section />
