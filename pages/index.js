@@ -1,4 +1,4 @@
-
+import Head from 'next/head'
 import Card_section from '../components/Card_section'
 import Form_Contato from '../components/Form_Contato'
 import Hero_section from '../components/Hero_section'
