@@ -5,7 +5,7 @@ class Hero_section extends Component {
         return (
             <div>
                 {/* catch phrase  */}
-                <section class=" bg-gray-800 bg-hero-pattern bg-no-repeat bg-top -mb-14  "  >
+                <section class=" bg-gray-800 bg-hero-pattern bg-no-repeat bg-top -mb-14 sm:w-full   "  >
                 
                     <div class="grid grid-cols-8 grid-rows-4  " >
                     <h1 class="  shadow-lg col-start-2 col-end-4 row-start-2 row-end-2  bg-black  text-gray-100 text-3xl px-6 py-8 xl: ml-8 mr-9  pr-8 xl:col-end-6 xl:-mt-8 xl:-mb-5   sm:pr-52 2xl: mt-6 2xl:mr-96 pl-20  ">
