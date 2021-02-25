@@ -15,72 +15,74 @@ import React, { Component } from 'react'
                 
                 {/* cards */}
         
-                <div class="h-64 grid grid-rows-1 grid-flow-col place-content-center gap-14 lg:mx-48 lg:mt-20 xl:ml-2xl 2xl:gap-32 ">
+                <div class="flex flex-col gap-y-36 pt-16 px-5 md:gap-5 md:flex-row lg:flex-row lg:gap-20 lg:place-content-center xl:flex-row 2xl:flex-row 2xl:gap-20 2xl:place-content-center mb-8">
 
                 
-                    <div class=" bg-red-500 max-w-xs  overflow-hidden shadow-lg my-2 px-4 py-5">
+                    <div class=" bg-red-500  shadow-lg my-2 px-4 py-5 h-56">
                         
 
                         
                         <h1 class="text-gray-900 text-2xl mb-3  text-center   ">
                                 Implantação
                         </h1>
-                        <section class=" bg-red-700  shadow-inner -mx-4 pb-48 ">
-                            <div class="text-black text-center px-5 py-5">
+                        <section class=" bg-red-700  shadow-inner -mx-4 pb- ">
+                            <div class="text-black text-center px-5 pt-8 pb-20 ">
                                  <p class="py-1 text-left">- Criação de loja do zero</p>
                                  <p class="py-1 text-left">- Integração de sistemas</p>
                                  <p class="py-1 text-left">- Cadrasto em massa de SKUs</p>    
                             </div>
 
-                            <a href="">
-                                <p class="text-center">E MAIS +</p>
+                            <a href="#">
+                                <p class="text-center pb-8 ">E MAIS +</p>
                             </a>
                     </section>
                         
                             
                     </div>
-                                        <div class=" bg-indigo-600 max-w-xs  overflow-hidden shadow-lg my-2 px-4 py-5">
+                      <div class=" bg-indigo-500  shadow-lg my-2 px-4 py-5 h-56">
                         
 
                         
                         <h1 class="text-gray-900 text-2xl mb-3  text-center   ">
                                 Sustentação
                         </h1>
-                        <section class="bg-indigo-800  shadow-inner -mx-4 pb-48 ">
-                            <div class="text-black text-center px-5 py-5">
+                        <section class=" bg-indigo-700  shadow-inner -mx-4 pb- ">
+                            <div class="text-black text-center px-5 pt-8 pb-20 ">
                                  <p class="py-1 text-left">- Criação de loja do zero</p>
                                  <p class="py-1 text-left">- Integração de sistemas</p>
                                  <p class="py-1 text-left">- Cadrasto em massa de SKUs</p>    
                             </div>
 
-                            <a href="">
-                                <p class="text-center">E MAIS +</p>
+                            <a href="#">
+                                <p class="text-center pb-8 ">E MAIS +</p>
                             </a>
                     </section>
                         
                             
                     </div>
-                                        <div class=" bg-lime-500 max-w-xs  overflow-hidden shadow-lg my-2 px-4 py-5">
+                      <div class=" bg-lime-500 shadow-lg my-2 px-4 py-5 h-72">
                         
 
                         
                         <h1 class="text-gray-900 text-2xl mb-3  text-center   ">
                                 Evolução
                         </h1>
-                        <section class=" bg-lime-600  shadow-inner -mx-4 pb-48 ">
-                            <div class="text-black text-center px-5 py-5">
+                        <section class=" bg-lime-700  shadow-inner -mx-4 pb- ">
+                            <div class="text-black text-center px-5 pt-8 pb-20 ">
                                  <p class="py-1 text-left">- Criação de loja do zero</p>
                                  <p class="py-1 text-left">- Integração de sistemas</p>
                                  <p class="py-1 text-left">- Cadrasto em massa de SKUs</p>    
                             </div>
 
-                            <a href="">
-                                <p class="text-center">E MAIS +</p>
+                            <a href="#">
+                                <p class="text-center pb-8 ">E MAIS +</p>
                             </a>
                     </section>
                         
                             
-                </div>
+                    </div>
+                                    
+                                      
                 </div>
                 
 
