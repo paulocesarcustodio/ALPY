@@ -8,7 +8,7 @@ class Hero_section extends Component {
                 <section class=" bg-gray-800 bg-hero-pattern bg-no-repeat bg-top -mb-14 sm:w-full   "  >
                 
                     <div class="grid grid-cols-8 grid-rows-4  " >
-                    <h1 class="  shadow-lg col-start-2 col-end-4 row-start-2 row-end-2  bg-black  text-gray-100 text-3xl px-6 py-8 xl: ml-8 mr-9  pr-8 xl:col-end-6 xl:-mt-8 xl:-mb-5   sm:pr-52 2xl: mt-6 2xl:mr-96 pl-20 2xl:mb-5  ">
+                    <h1 class=" w-72 sm:min-w-72 md:min-w-72  md:w-96 lg:w-3/4 xl:w-4/5 2xl:w-4/5 shadow-lg col-start-2 col-end-4 row-start-2 row-end-2  bg-black  text-gray-100 text-3xl px-6 py-8 xl: ml-8 mr-9  pr-8 xl:col-end-6 xl:-mt-8 xl:-mb-5   sm:pr-52 2xl: mt-6 2xl:mr-96 pl-20 2xl:mb-5  ">
                             Sua equipe de e-commerce remota flexível e eficiente 
                         </h1>
                       {/* call to action */}
