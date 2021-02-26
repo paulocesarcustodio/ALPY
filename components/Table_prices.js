@@ -10,7 +10,7 @@ class Table_prices extends Component {
           </h1>
           {/* table prices */}
           <center>
-            <table class="text-white lg:w-4/5  xl:w-4/5 2xl:w-3/5">
+            <table class="text-white w-full lg:w-4/5  xl:w-4/5 2xl:w-3/5">
               <thead>
                 <th class=" pl-10 text-left p-4  border-b-2 border-white">
                   Serviços
@@ -24,27 +24,21 @@ class Table_prices extends Component {
                   <td class=" pl-10 text-left p-4 border-r border-t-2  border-b-2 border-white">
                     Implantação
                   </td>
-                  <td class="text-center p-4 border-2 border-white">
+                  <td class="  text-center  border-2 border-white">
                     R$ 9999,00
                   </td>
-                  <td class="text-center p-4 border-2 border-white">
+                  <td class="text-center  border-2 border-white ">
                     R$ 9999,00
                   </td>
-                  <td class="text-center p-4 border-2 border-white">
-                    R$ 9999,00
-                  </td>
+                  <td class="text-center  border-2 border-white">R$ 9999,00</td>
                 </tr>
                 <tr>
-                  <td class=" pl-10 text-left p-4 border-r border-t-2  border-b-2 border-white">
+                  <td class=" pl-10 text-left  border-r border-t-2  border-b-2 border-white">
                     Sustentação
                   </td>
-                  <td class="text-center p-4 border-2 border-white">
-                    R$ 9999,00
-                  </td>
-                  <td class="text-center p-4 border-2 border-white">
-                    R$ 9999,00
-                  </td>
-                  <td class="text-center p-4 border-2 border-white">
+                  <td class="text-center  border-2 border-white">R$ 9999,00</td>
+                  <td class="text-center  border-2 border-white">R$ 9999,00</td>
+                  <td class="text-center py-3 border-2 border-white ">
                     R$ 9999,00
                   </td>
                 </tr>
@@ -53,13 +47,13 @@ class Table_prices extends Component {
                   <td class=" text-left pl-10 p-4 border-r-2 border-t-2  border-b-2 border-white">
                     Evolução
                   </td>
-                  <td class="text-center p-4 border-2 border-white">
+                  <td class="text-center py-3 border-2 border-white">
                     R$ 9999,00
                   </td>
-                  <td class="text-center p-4 border-2 border-white">
+                  <td class="text-center py-3 border-2 border-white">
                     R$ 9999,00
                   </td>
-                  <td class="text-center p-4 border-2 border-white">
+                  <td class="text-center py-2 border-2 border-white">
                     R$ 9999,00
                   </td>
                 </tr>
