@@ -12,7 +12,7 @@ class Team_section extends Component {
             <div class=" pb-20 flex flex-col lg:flex-row">
               <figure class="text-center ">
                 <img
-                  class="w-42 pl-5 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
+                  class="w-42 pl-8 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
                   src="/assets/augusto.png"
                   alt="augusto avatar"
                 />
@@ -31,7 +31,7 @@ class Team_section extends Component {
             <div class=" pb-20 flex flex-col lg:flex-row-reverse">
               <figure class="text-center ">
                 <img
-                  class="w-42 pl-5 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
+                  class="w-42 pl-8 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
                   src="/assets/Lethicia.png"
                   alt="Lethicia Avatar"
                 />
@@ -50,7 +50,7 @@ class Team_section extends Component {
             <div class=" pb-20 flex flex-col lg:flex-row">
               <figure class="text-center ">
                 <img
-                  class="w-42 pl-5 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
+                  class="w-42 pl-8 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
                   src="/assets/Paulo.png"
                   alt="Paulo Avatar"
                 />
@@ -69,7 +69,7 @@ class Team_section extends Component {
             <div class=" pb-20 flex flex-col lg:flex-row-reverse">
               <figure class="text-center ">
                 <img
-                  class="w-42 pl-5 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
+                  class="w-42 pl-8 lg:pr-5 lg:w-56 xl:w-56 2xl:56"
                   src="/assets/Yara.png"
                   alt="Yara Avatar"
                 />
@@ -92,4 +92,3 @@ class Team_section extends Component {
 }
 
 export default Team_section;
-
