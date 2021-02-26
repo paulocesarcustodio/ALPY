@@ -15,7 +15,7 @@ class Table_prices extends Component {
                 <th class=" pl-10 text-left p-4  border-b-2 border-white">
                   Serviços
                 </th>
-                <th class="p-4 border-white border-2">basic</th>
+                <th class="p-4 px-8 border-white border-2">basic</th>
                 <th class="p-4 border-white border-2">standard</th>
                 <th class="p-4 border-white border-2">premium</th>
               </thead>
@@ -68,7 +68,7 @@ class Table_prices extends Component {
 
                   <td
                     colspan="3"
-                    class=" text-center border-b-2  border-r-2 border-l-2 border-white 
+                    class=" text-center  border-b-2  border-r-2 border-l-2 border-white font-semibold
                         "
                   >
                     agende uma demonstração{" "}
